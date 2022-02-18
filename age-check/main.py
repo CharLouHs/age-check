@@ -11,3 +11,5 @@ elif country=='america':
         print('you can get the drinving exam')
     else:
         print('you are not allowed to have the exam')
+else:
+    print('you can only input taiwan or america')
